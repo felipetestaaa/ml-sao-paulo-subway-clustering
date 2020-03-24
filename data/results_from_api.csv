@@ -1,0 +1,791 @@
+metro_station,latitude,longitude,metro_line,category_name,venues
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Arts & Entertainment,13
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],College & University,71
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Event,3
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Food,110
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Nightlife Spot,23
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Outdoors & Recreation,76
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Professional & Other Places,121
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Residence,11
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Shop & Service,62
+aacd-servidor,-23.597824600000003,-46.652374,['lilas'],Travel & Transport,23
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Arts & Entertainment,8
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],College & University,42
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Event,0
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Food,96
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Nightlife Spot,11
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Outdoors & Recreation,33
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Professional & Other Places,89
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Residence,14
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Shop & Service,89
+adolfo-pinheiro,-23.6500726,-46.7042057,['lilas'],Travel & Transport,15
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Arts & Entertainment,2
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],College & University,24
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Event,2
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Food,71
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Nightlife Spot,8
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Outdoors & Recreation,30
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Professional & Other Places,90
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Residence,15
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Shop & Service,65
+alto-da-boa-vista,-23.641625100000002,-46.6994344,['lilas'],Travel & Transport,9
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Arts & Entertainment,10
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],College & University,23
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Event,2
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Food,68
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Nightlife Spot,12
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Outdoors & Recreation,43
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Professional & Other Places,47
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Residence,33
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Shop & Service,58
+alto-do-ipiranga,-23.6022366,-46.6124857,['verde'],Travel & Transport,5
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Arts & Entertainment,32
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",College & University,75
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Event,7
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Food,214
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Nightlife Spot,55
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Outdoors & Recreation,68
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Professional & Other Places,136
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Residence,29
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Shop & Service,94
+ana-rosa,-23.581871300000003,-46.6381039,"['azul', 'verde']",Travel & Transport,47
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Arts & Entertainment,86
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],College & University,53
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Event,18
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Food,203
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Nightlife Spot,97
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Outdoors & Recreation,95
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Professional & Other Places,171
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Residence,39
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Shop & Service,156
+anhangabau,-23.547825399999997,-46.639179999999996,['vermelha'],Travel & Transport,97
+armenia,-23.5254103,-46.629258965,['azul'],Arts & Entertainment,16
+armenia,-23.5254103,-46.629258965,['azul'],College & University,54
+armenia,-23.5254103,-46.629258965,['azul'],Event,2
+armenia,-23.5254103,-46.629258965,['azul'],Food,113
+armenia,-23.5254103,-46.629258965,['azul'],Nightlife Spot,21
+armenia,-23.5254103,-46.629258965,['azul'],Outdoors & Recreation,21
+armenia,-23.5254103,-46.629258965,['azul'],Professional & Other Places,80
+armenia,-23.5254103,-46.629258965,['azul'],Residence,3
+armenia,-23.5254103,-46.629258965,['azul'],Shop & Service,44
+armenia,-23.5254103,-46.629258965,['azul'],Travel & Transport,24
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Arts & Entertainment,2
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],College & University,4
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Event,0
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Food,49
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Nightlife Spot,6
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Outdoors & Recreation,22
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Professional & Other Places,46
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Residence,2
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Shop & Service,52
+artur-alvim,-23.5402438,-46.4847063,['vermelha'],Travel & Transport,7
+belem,-23.5428718,-46.589615,['vermelha'],Arts & Entertainment,10
+belem,-23.5428718,-46.589615,['vermelha'],College & University,31
+belem,-23.5428718,-46.589615,['vermelha'],Event,2
+belem,-23.5428718,-46.589615,['vermelha'],Food,84
+belem,-23.5428718,-46.589615,['vermelha'],Nightlife Spot,23
+belem,-23.5428718,-46.589615,['vermelha'],Outdoors & Recreation,32
+belem,-23.5428718,-46.589615,['vermelha'],Professional & Other Places,61
+belem,-23.5428718,-46.589615,['vermelha'],Residence,20
+belem,-23.5428718,-46.589615,['vermelha'],Shop & Service,61
+belem,-23.5428718,-46.589615,['vermelha'],Travel & Transport,12
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Arts & Entertainment,8
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],College & University,31
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Event,3
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Food,108
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Nightlife Spot,12
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Outdoors & Recreation,37
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Professional & Other Places,84
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Residence,14
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Shop & Service,65
+borba-gato,-23.633466100000003,-46.6928675,['lilas'],Travel & Transport,13
+bras,-23.5453263,-46.6164435,['vermelha'],Arts & Entertainment,7
+bras,-23.5453263,-46.6164435,['vermelha'],College & University,47
+bras,-23.5453263,-46.6164435,['vermelha'],Event,4
+bras,-23.5453263,-46.6164435,['vermelha'],Food,110
+bras,-23.5453263,-46.6164435,['vermelha'],Nightlife Spot,12
+bras,-23.5453263,-46.6164435,['vermelha'],Outdoors & Recreation,17
+bras,-23.5453263,-46.6164435,['vermelha'],Professional & Other Places,59
+bras,-23.5453263,-46.6164435,['vermelha'],Residence,21
+bras,-23.5453263,-46.6164435,['vermelha'],Shop & Service,63
+bras,-23.5453263,-46.6164435,['vermelha'],Travel & Transport,18
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Arts & Entertainment,13
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],College & University,41
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Event,4
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Food,84
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Nightlife Spot,12
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Outdoors & Recreation,24
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Professional & Other Places,70
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Residence,20
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Shop & Service,50
+bresser-mooca,-23.546360600000003,-46.6071519,['vermelha'],Travel & Transport,18
+brigadeiro,-23.5677281,-46.6489369,['verde'],Arts & Entertainment,42
+brigadeiro,-23.5677281,-46.6489369,['verde'],College & University,63
+brigadeiro,-23.5677281,-46.6489369,['verde'],Event,9
+brigadeiro,-23.5677281,-46.6489369,['verde'],Food,232
+brigadeiro,-23.5677281,-46.6489369,['verde'],Nightlife Spot,70
+brigadeiro,-23.5677281,-46.6489369,['verde'],Outdoors & Recreation,67
+brigadeiro,-23.5677281,-46.6489369,['verde'],Professional & Other Places,183
+brigadeiro,-23.5677281,-46.6489369,['verde'],Residence,50
+brigadeiro,-23.5677281,-46.6489369,['verde'],Shop & Service,179
+brigadeiro,-23.5677281,-46.6489369,['verde'],Travel & Transport,89
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Arts & Entertainment,9
+brooklin,-23.626801699999998,-46.6881279,['lilas'],College & University,48
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Event,5
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Food,99
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Nightlife Spot,12
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Outdoors & Recreation,36
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Professional & Other Places,97
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Residence,25
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Shop & Service,57
+brooklin,-23.626801699999998,-46.6881279,['lilas'],Travel & Transport,21
+butanta,-23.5718995,-46.7080896,['amarela'],Arts & Entertainment,8
+butanta,-23.5718995,-46.7080896,['amarela'],College & University,26
+butanta,-23.5718995,-46.7080896,['amarela'],Event,5
+butanta,-23.5718995,-46.7080896,['amarela'],Food,90
+butanta,-23.5718995,-46.7080896,['amarela'],Nightlife Spot,19
+butanta,-23.5718995,-46.7080896,['amarela'],Outdoors & Recreation,34
+butanta,-23.5718995,-46.7080896,['amarela'],Professional & Other Places,88
+butanta,-23.5718995,-46.7080896,['amarela'],Residence,6
+butanta,-23.5718995,-46.7080896,['amarela'],Shop & Service,61
+butanta,-23.5718995,-46.7080896,['amarela'],Travel & Transport,25
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Arts & Entertainment,15
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],College & University,5
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Event,1
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Food,46
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Nightlife Spot,8
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Outdoors & Recreation,12
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Professional & Other Places,33
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Residence,13
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Shop & Service,36
+camilo-haddad,-23.59551685,-46.53759008818971,['prata'],Travel & Transport,2
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Arts & Entertainment,4
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],College & University,12
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Event,1
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Food,54
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Nightlife Spot,4
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Outdoors & Recreation,28
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Professional & Other Places,35
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Residence,18
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Shop & Service,58
+campo-limpo,-23.649245999999998,-46.7589296,['lilas'],Travel & Transport,8
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Arts & Entertainment,15
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],College & University,12
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Event,2
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Food,46
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Nightlife Spot,4
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Outdoors & Recreation,18
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Professional & Other Places,40
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Residence,8
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Shop & Service,46
+capao-redondo,-23.659168899999997,-46.7680006,['lilas'],Travel & Transport,6
+carandiru,-23.5095466,-46.624977147458495,['azul'],Arts & Entertainment,17
+carandiru,-23.5095466,-46.624977147458495,['azul'],College & University,34
+carandiru,-23.5095466,-46.624977147458495,['azul'],Event,3
+carandiru,-23.5095466,-46.624977147458495,['azul'],Food,107
+carandiru,-23.5095466,-46.624977147458495,['azul'],Nightlife Spot,21
+carandiru,-23.5095466,-46.624977147458495,['azul'],Outdoors & Recreation,22
+carandiru,-23.5095466,-46.624977147458495,['azul'],Professional & Other Places,86
+carandiru,-23.5095466,-46.624977147458495,['azul'],Residence,4
+carandiru,-23.5095466,-46.624977147458495,['azul'],Shop & Service,82
+carandiru,-23.5095466,-46.624977147458495,['azul'],Travel & Transport,94
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Arts & Entertainment,14
+carrao,-23.5378874,-46.564262400000004,['vermelha'],College & University,55
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Event,4
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Food,126
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Nightlife Spot,31
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Outdoors & Recreation,40
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Professional & Other Places,79
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Residence,28
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Shop & Service,60
+carrao,-23.5378874,-46.564262400000004,['vermelha'],Travel & Transport,9
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Arts & Entertainment,19
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",College & University,57
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Event,3
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Food,129
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Nightlife Spot,23
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Outdoors & Recreation,63
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Professional & Other Places,126
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Residence,38
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Shop & Service,95
+chacara-klabin,-23.5926813,-46.630680700000006,"['lilas', 'verde']",Travel & Transport,23
+clinicas,-23.5541125,-46.673004799999994,['verde'],Arts & Entertainment,40
+clinicas,-23.5541125,-46.673004799999994,['verde'],College & University,70
+clinicas,-23.5541125,-46.673004799999994,['verde'],Event,3
+clinicas,-23.5541125,-46.673004799999994,['verde'],Food,138
+clinicas,-23.5541125,-46.673004799999994,['verde'],Nightlife Spot,59
+clinicas,-23.5541125,-46.673004799999994,['verde'],Outdoors & Recreation,59
+clinicas,-23.5541125,-46.673004799999994,['verde'],Professional & Other Places,110
+clinicas,-23.5541125,-46.673004799999994,['verde'],Residence,24
+clinicas,-23.5541125,-46.673004799999994,['verde'],Shop & Service,89
+clinicas,-23.5541125,-46.673004799999994,['verde'],Travel & Transport,37
+conceicao,-23.6350111,-46.641295,['azul'],Arts & Entertainment,7
+conceicao,-23.6350111,-46.641295,['azul'],College & University,21
+conceicao,-23.6350111,-46.641295,['azul'],Event,2
+conceicao,-23.6350111,-46.641295,['azul'],Food,146
+conceicao,-23.6350111,-46.641295,['azul'],Nightlife Spot,15
+conceicao,-23.6350111,-46.641295,['azul'],Outdoors & Recreation,49
+conceicao,-23.6350111,-46.641295,['azul'],Professional & Other Places,84
+conceicao,-23.6350111,-46.641295,['azul'],Residence,23
+conceicao,-23.6350111,-46.641295,['azul'],Shop & Service,87
+conceicao,-23.6350111,-46.641295,['azul'],Travel & Transport,12
+consolacao,-23.5581208,-46.660219299999994,['verde'],Arts & Entertainment,59
+consolacao,-23.5581208,-46.660219299999994,['verde'],College & University,72
+consolacao,-23.5581208,-46.660219299999994,['verde'],Event,8
+consolacao,-23.5581208,-46.660219299999994,['verde'],Food,238
+consolacao,-23.5581208,-46.660219299999994,['verde'],Nightlife Spot,121
+consolacao,-23.5581208,-46.660219299999994,['verde'],Outdoors & Recreation,72
+consolacao,-23.5581208,-46.660219299999994,['verde'],Professional & Other Places,182
+consolacao,-23.5581208,-46.660219299999994,['verde'],Residence,45
+consolacao,-23.5581208,-46.660219299999994,['verde'],Shop & Service,165
+consolacao,-23.5581208,-46.660219299999994,['verde'],Travel & Transport,90
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Arts & Entertainment,6
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],College & University,5
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Event,1
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Food,48
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Nightlife Spot,5
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Outdoors & Recreation,10
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Professional & Other Places,32
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Residence,0
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Shop & Service,65
+corinthians-itaquera,-23.542299399999997,-46.4712065,['vermelha'],Travel & Transport,8
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Arts & Entertainment,16
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],College & University,38
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Event,5
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Food,161
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Nightlife Spot,56
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Outdoors & Recreation,67
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Professional & Other Places,128
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Residence,25
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Shop & Service,171
+eucaliptos,-23.609795499999997,-46.668617,['lilas'],Travel & Transport,39
+faria-lima,-23.5672551,-46.6939585,['amarela'],Arts & Entertainment,40
+faria-lima,-23.5672551,-46.6939585,['amarela'],College & University,47
+faria-lima,-23.5672551,-46.6939585,['amarela'],Event,3
+faria-lima,-23.5672551,-46.6939585,['amarela'],Food,243
+faria-lima,-23.5672551,-46.6939585,['amarela'],Nightlife Spot,109
+faria-lima,-23.5672551,-46.6939585,['amarela'],Outdoors & Recreation,58
+faria-lima,-23.5672551,-46.6939585,['amarela'],Professional & Other Places,151
+faria-lima,-23.5672551,-46.6939585,['amarela'],Residence,23
+faria-lima,-23.5672551,-46.6939585,['amarela'],Shop & Service,168
+faria-lima,-23.5672551,-46.6939585,['amarela'],Travel & Transport,50
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Arts & Entertainment,54
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],College & University,37
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Event,3
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Food,233
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Nightlife Spot,109
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Outdoors & Recreation,54
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Professional & Other Places,139
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Residence,21
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Shop & Service,165
+fradique-coutinho,-23.5662284,-46.6841386,['amarela'],Travel & Transport,36
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Arts & Entertainment,3
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],College & University,9
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Event,2
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Food,91
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Nightlife Spot,10
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Outdoors & Recreation,28
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Professional & Other Places,78
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Residence,14
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Shop & Service,68
+giovanni-gronchi,-23.643930100000002,-46.7339828,['lilas'],Travel & Transport,13
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Arts & Entertainment,3
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],College & University,6
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Event,0
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Food,52
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Nightlife Spot,7
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Outdoors & Recreation,17
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Professional & Other Places,34
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Residence,3
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Shop & Service,32
+guilhermina-esperanca,-23.5293046,-46.516640100000004,['vermelha'],Travel & Transport,6
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Arts & Entertainment,71
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],College & University,86
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Event,8
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Food,200
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Nightlife Spot,124
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Outdoors & Recreation,87
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Professional & Other Places,148
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Residence,67
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Shop & Service,180
+higienopolis-mackenzie,-23.5489592,-46.6523049,['amarela'],Travel & Transport,79
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Arts & Entertainment,25
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],College & University,56
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Event,4
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Food,160
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Nightlife Spot,30
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Outdoors & Recreation,67
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Professional & Other Places,141
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Residence,16
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Shop & Service,100
+hospital-sao-paulo,-23.5983051,-46.645577100000004,['lilas'],Travel & Transport,27
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Arts & Entertainment,9
+jabaquara,-23.6463382,-46.641046200000005,['azul'],College & University,23
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Event,1
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Food,72
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Nightlife Spot,12
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Outdoors & Recreation,34
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Professional & Other Places,64
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Residence,12
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Shop & Service,63
+jabaquara,-23.6463382,-46.641046200000005,['azul'],Travel & Transport,18
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Arts & Entertainment,52
+japao-liberdade,-23.5551768,-46.6356017,['azul'],College & University,72
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Event,4
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Food,196
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Nightlife Spot,64
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Outdoors & Recreation,68
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Professional & Other Places,142
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Residence,30
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Shop & Service,108
+japao-liberdade,-23.5551768,-46.6356017,['azul'],Travel & Transport,42
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Arts & Entertainment,11
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],College & University,16
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Event,3
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Food,113
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Nightlife Spot,31
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Outdoors & Recreation,40
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Professional & Other Places,70
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Residence,13
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Shop & Service,74
+jardim-sao-paulo-ayrton-senna,-23.4922867,-46.618857500000004,['azul'],Travel & Transport,9
+largo-treze,-23.6544576,-46.7101664,['lilas'],Arts & Entertainment,6
+largo-treze,-23.6544576,-46.7101664,['lilas'],College & University,33
+largo-treze,-23.6544576,-46.7101664,['lilas'],Event,1
+largo-treze,-23.6544576,-46.7101664,['lilas'],Food,84
+largo-treze,-23.6544576,-46.7101664,['lilas'],Nightlife Spot,11
+largo-treze,-23.6544576,-46.7101664,['lilas'],Outdoors & Recreation,29
+largo-treze,-23.6544576,-46.7101664,['lilas'],Professional & Other Places,70
+largo-treze,-23.6544576,-46.7101664,['lilas'],Residence,14
+largo-treze,-23.6544576,-46.7101664,['lilas'],Shop & Service,71
+largo-treze,-23.6544576,-46.7101664,['lilas'],Travel & Transport,20
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Arts & Entertainment,39
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",College & University,46
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Event,4
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Food,181
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Nightlife Spot,32
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Outdoors & Recreation,41
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Professional & Other Places,92
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Residence,7
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Shop & Service,136
+luz,-23.536059299999998,-46.6341812,"['amarela', 'azul']",Travel & Transport,71
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Arts & Entertainment,31
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],College & University,46
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Event,1
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Food,214
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Nightlife Spot,59
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Outdoors & Recreation,73
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Professional & Other Places,120
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Residence,41
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Shop & Service,147
+marechal-deodoro,-23.5339809,-46.655899299999994,['vermelha'],Travel & Transport,29
+moema,-23.603776,-46.6621333,['lilas'],Arts & Entertainment,17
+moema,-23.603776,-46.6621333,['lilas'],College & University,35
+moema,-23.603776,-46.6621333,['lilas'],Event,5
+moema,-23.603776,-46.6621333,['lilas'],Food,119
+moema,-23.603776,-46.6621333,['lilas'],Nightlife Spot,40
+moema,-23.603776,-46.6621333,['lilas'],Outdoors & Recreation,76
+moema,-23.603776,-46.6621333,['lilas'],Professional & Other Places,130
+moema,-23.603776,-46.6621333,['lilas'],Residence,27
+moema,-23.603776,-46.6621333,['lilas'],Shop & Service,170
+moema,-23.603776,-46.6621333,['lilas'],Travel & Transport,41
+oratorio,-23.58213475,-46.5618087904539,['prata'],Arts & Entertainment,3
+oratorio,-23.58213475,-46.5618087904539,['prata'],College & University,8
+oratorio,-23.58213475,-46.5618087904539,['prata'],Event,4
+oratorio,-23.58213475,-46.5618087904539,['prata'],Food,48
+oratorio,-23.58213475,-46.5618087904539,['prata'],Nightlife Spot,6
+oratorio,-23.58213475,-46.5618087904539,['prata'],Outdoors & Recreation,18
+oratorio,-23.58213475,-46.5618087904539,['prata'],Professional & Other Places,38
+oratorio,-23.58213475,-46.5618087904539,['prata'],Residence,14
+oratorio,-23.58213475,-46.5618087904539,['prata'],Shop & Service,37
+oratorio,-23.58213475,-46.5618087904539,['prata'],Travel & Transport,6
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Arts & Entertainment,53
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],College & University,60
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Event,1
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Food,222
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Nightlife Spot,89
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Outdoors & Recreation,61
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Professional & Other Places,114
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Residence,23
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Shop & Service,156
+oscar-freire,-23.5607503,-46.672028600000004,['amarela'],Travel & Transport,45
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Arts & Entertainment,38
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],College & University,28
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Event,13
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Food,140
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Nightlife Spot,40
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Outdoors & Recreation,35
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Professional & Other Places,115
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Residence,21
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Shop & Service,83
+palmeiras-barra-funda,-23.5254616,-46.6675134,['vermelha'],Travel & Transport,52
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Arts & Entertainment,6
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],College & University,15
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Event,4
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Food,113
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Nightlife Spot,34
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Outdoors & Recreation,29
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Professional & Other Places,57
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Residence,7
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Shop & Service,81
+parada-inglesa,-23.4870316,-46.608800352167705,['azul'],Travel & Transport,11
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Arts & Entertainment,33
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",College & University,58
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Event,2
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Food,196
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Nightlife Spot,37
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Outdoors & Recreation,74
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Professional & Other Places,157
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Residence,34
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Shop & Service,155
+paraiso,-23.5753983,-46.6408061,"['azul', 'verde']",Travel & Transport,53
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Arts & Entertainment,3
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],College & University,4
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Event,1
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Food,47
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Nightlife Spot,8
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Outdoors & Recreation,16
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Professional & Other Places,37
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Residence,1
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Shop & Service,47
+patriarca-vila-re,-23.5311445,-46.503638200000005,['vermelha'],Travel & Transport,5
+paulista,-23.5552461,-46.6622682,['amarela'],Arts & Entertainment,42
+paulista,-23.5552461,-46.6622682,['amarela'],College & University,62
+paulista,-23.5552461,-46.6622682,['amarela'],Event,7
+paulista,-23.5552461,-46.6622682,['amarela'],Food,209
+paulista,-23.5552461,-46.6622682,['amarela'],Nightlife Spot,110
+paulista,-23.5552461,-46.6622682,['amarela'],Outdoors & Recreation,64
+paulista,-23.5552461,-46.6622682,['amarela'],Professional & Other Places,177
+paulista,-23.5552461,-46.6622682,['amarela'],Residence,36
+paulista,-23.5552461,-46.6622682,['amarela'],Shop & Service,137
+paulista,-23.5552461,-46.6622682,['amarela'],Travel & Transport,81
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Arts & Entertainment,23
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],College & University,32
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Event,2
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Food,157
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Nightlife Spot,25
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Outdoors & Recreation,37
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Professional & Other Places,115
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Residence,18
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Shop & Service,96
+pedro-ii,-23.549699399999998,-46.6259819,['vermelha'],Travel & Transport,17
+penha,-23.5334949,-46.542668799999994,['vermelha'],Arts & Entertainment,5
+penha,-23.5334949,-46.542668799999994,['vermelha'],College & University,12
+penha,-23.5334949,-46.542668799999994,['vermelha'],Event,4
+penha,-23.5334949,-46.542668799999994,['vermelha'],Food,71
+penha,-23.5334949,-46.542668799999994,['vermelha'],Nightlife Spot,5
+penha,-23.5334949,-46.542668799999994,['vermelha'],Outdoors & Recreation,26
+penha,-23.5334949,-46.542668799999994,['vermelha'],Professional & Other Places,45
+penha,-23.5334949,-46.542668799999994,['vermelha'],Residence,10
+penha,-23.5334949,-46.542668799999994,['vermelha'],Shop & Service,44
+penha,-23.5334949,-46.542668799999994,['vermelha'],Travel & Transport,5
+pinheiros,-23.567249,-46.7019515,['amarela'],Arts & Entertainment,15
+pinheiros,-23.567249,-46.7019515,['amarela'],College & University,24
+pinheiros,-23.567249,-46.7019515,['amarela'],Event,2
+pinheiros,-23.567249,-46.7019515,['amarela'],Food,179
+pinheiros,-23.567249,-46.7019515,['amarela'],Nightlife Spot,55
+pinheiros,-23.567249,-46.7019515,['amarela'],Outdoors & Recreation,39
+pinheiros,-23.567249,-46.7019515,['amarela'],Professional & Other Places,117
+pinheiros,-23.567249,-46.7019515,['amarela'],Residence,13
+pinheiros,-23.567249,-46.7019515,['amarela'],Shop & Service,109
+pinheiros,-23.567249,-46.7019515,['amarela'],Travel & Transport,39
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Arts & Entertainment,11
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],College & University,24
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Event,4
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Food,102
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Nightlife Spot,12
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Outdoors & Recreation,18
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Professional & Other Places,67
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Residence,4
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Shop & Service,117
+portuguesa-tiete,-23.51614455,-46.6251494423778,['azul'],Travel & Transport,90
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Arts & Entertainment,15
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],College & University,30
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Event,3
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Food,168
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Nightlife Spot,23
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Outdoors & Recreation,52
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Professional & Other Places,68
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Residence,26
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Shop & Service,88
+praca-da-arvore,-23.6105051,-46.6379193,['azul'],Travel & Transport,12
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Arts & Entertainment,74
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",College & University,76
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Event,15
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Food,224
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Nightlife Spot,109
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Outdoors & Recreation,102
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Professional & Other Places,165
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Residence,49
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Shop & Service,159
+republica,-23.5440945,-46.642665,"['amarela', 'vermelha']",Travel & Transport,111
+sacoma,-23.6012824,-46.602555200000005,['verde'],Arts & Entertainment,5
+sacoma,-23.6012824,-46.602555200000005,['verde'],College & University,18
+sacoma,-23.6012824,-46.602555200000005,['verde'],Event,2
+sacoma,-23.6012824,-46.602555200000005,['verde'],Food,84
+sacoma,-23.6012824,-46.602555200000005,['verde'],Nightlife Spot,14
+sacoma,-23.6012824,-46.602555200000005,['verde'],Outdoors & Recreation,33
+sacoma,-23.6012824,-46.602555200000005,['verde'],Professional & Other Places,50
+sacoma,-23.6012824,-46.602555200000005,['verde'],Residence,28
+sacoma,-23.6012824,-46.602555200000005,['verde'],Shop & Service,61
+sacoma,-23.6012824,-46.602555200000005,['verde'],Travel & Transport,9
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Arts & Entertainment,48
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],College & University,49
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Event,3
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Food,237
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Nightlife Spot,101
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Outdoors & Recreation,76
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Professional & Other Places,147
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Residence,46
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Shop & Service,151
+santa-cecilia,-23.538104699999998,-46.648999700000005,['vermelha'],Travel & Transport,89
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Arts & Entertainment,30
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",College & University,51
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Event,5
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Food,156
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Nightlife Spot,32
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Outdoors & Recreation,55
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Professional & Other Places,145
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Residence,23
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Shop & Service,101
+santa-cruz,-23.5989383,-46.6388672,"['azul', 'lilas']",Travel & Transport,20
+santana,-23.50258755,-46.6252175408741,['azul'],Arts & Entertainment,17
+santana,-23.50258755,-46.6252175408741,['azul'],College & University,39
+santana,-23.50258755,-46.6252175408741,['azul'],Event,0
+santana,-23.50258755,-46.6252175408741,['azul'],Food,107
+santana,-23.50258755,-46.6252175408741,['azul'],Nightlife Spot,23
+santana,-23.50258755,-46.6252175408741,['azul'],Outdoors & Recreation,32
+santana,-23.50258755,-46.6252175408741,['azul'],Professional & Other Places,94
+santana,-23.50258755,-46.6252175408741,['azul'],Residence,10
+santana,-23.50258755,-46.6252175408741,['azul'],Shop & Service,71
+santana,-23.50258755,-46.6252175408741,['azul'],Travel & Transport,23
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Arts & Entertainment,7
+santo-amaro,-23.6562303,-46.7191156,['lilas'],College & University,17
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Event,5
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Food,72
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Nightlife Spot,9
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Outdoors & Recreation,24
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Professional & Other Places,61
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Residence,12
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Shop & Service,36
+santo-amaro,-23.6562303,-46.7191156,['lilas'],Travel & Transport,14
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Arts & Entertainment,10
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],College & University,12
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Event,3
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Food,70
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Nightlife Spot,10
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Outdoors & Recreation,51
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Professional & Other Places,46
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Residence,26
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Shop & Service,65
+santos-imigrantes,-23.5958959,-46.6207594,['verde'],Travel & Transport,8
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Arts & Entertainment,49
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],College & University,53
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Event,3
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Food,115
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Nightlife Spot,50
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Outdoors & Recreation,75
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Professional & Other Places,95
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Residence,20
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Shop & Service,73
+santuario-nossa-senhora-de-fatima-sumare,-23.550751899999998,-46.68009620000001,['verde'],Travel & Transport,19
+sao-bento,-23.5443802,-46.6363175,['azul'],Arts & Entertainment,63
+sao-bento,-23.5443802,-46.6363175,['azul'],College & University,64
+sao-bento,-23.5443802,-46.6363175,['azul'],Event,14
+sao-bento,-23.5443802,-46.6363175,['azul'],Food,242
+sao-bento,-23.5443802,-46.6363175,['azul'],Nightlife Spot,103
+sao-bento,-23.5443802,-46.6363175,['azul'],Outdoors & Recreation,85
+sao-bento,-23.5443802,-46.6363175,['azul'],Professional & Other Places,174
+sao-bento,-23.5443802,-46.6363175,['azul'],Residence,26
+sao-bento,-23.5443802,-46.6363175,['azul'],Shop & Service,174
+sao-bento,-23.5443802,-46.6363175,['azul'],Travel & Transport,100
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Arts & Entertainment,52
+sao-joaquim,-23.5613673,-46.6386013,['azul'],College & University,83
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Event,5
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Food,104
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Nightlife Spot,36
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Outdoors & Recreation,64
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Professional & Other Places,137
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Residence,36
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Shop & Service,93
+sao-joaquim,-23.5613673,-46.6386013,['azul'],Travel & Transport,50
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Arts & Entertainment,3
+sao-judas,-23.625808499999998,-46.6409209,['azul'],College & University,25
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Event,3
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Food,132
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Nightlife Spot,23
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Outdoors & Recreation,54
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Professional & Other Places,85
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Residence,23
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Shop & Service,91
+sao-judas,-23.625808499999998,-46.6409209,['azul'],Travel & Transport,19
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Arts & Entertainment,4
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],College & University,4
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Event,1
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Food,49
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Nightlife Spot,4
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Outdoors & Recreation,16
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Professional & Other Places,38
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Residence,17
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Shop & Service,43
+sao-lucas,-23.58882605,-46.5447248260771,['prata'],Travel & Transport,3
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Arts & Entertainment,4
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],College & University,17
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Event,1
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Food,90
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Nightlife Spot,19
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Outdoors & Recreation,37
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Professional & Other Places,71
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Residence,10
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Shop & Service,88
+sao-paulo-morumbi,-23.586136800000002,-46.72391210000001,['amarela'],Travel & Transport,10
+saude,-23.6182458,-46.6391896,['azul'],Arts & Entertainment,6
+saude,-23.6182458,-46.6391896,['azul'],College & University,29
+saude,-23.6182458,-46.6391896,['azul'],Event,2
+saude,-23.6182458,-46.6391896,['azul'],Food,52
+saude,-23.6182458,-46.6391896,['azul'],Nightlife Spot,13
+saude,-23.6182458,-46.6391896,['azul'],Outdoors & Recreation,58
+saude,-23.6182458,-46.6391896,['azul'],Professional & Other Places,81
+saude,-23.6182458,-46.6391896,['azul'],Residence,21
+saude,-23.6182458,-46.6391896,['azul'],Shop & Service,76
+saude,-23.6182458,-46.6391896,['azul'],Travel & Transport,13
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Arts & Entertainment,68
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",College & University,59
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Event,13
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Food,206
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Nightlife Spot,85
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Outdoors & Recreation,92
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Professional & Other Places,161
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Residence,26
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Shop & Service,151
+se,-23.5500992,-46.635515000000005,"['azul', 'vermelha']",Travel & Transport,62
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Arts & Entertainment,2
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],College & University,5
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Event,3
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Food,35
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Nightlife Spot,6
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Outdoors & Recreation,12
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Professional & Other Places,34
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Residence,6
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Shop & Service,64
+tamanduatei,-23.5927867,-46.589516700000004,['verde'],Travel & Transport,10
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Arts & Entertainment,18
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],College & University,48
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Event,3
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Food,153
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Nightlife Spot,29
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Outdoors & Recreation,40
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Professional & Other Places,100
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Residence,19
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Shop & Service,99
+tatuape,-23.540252399999996,-46.5766424,['vermelha'],Travel & Transport,18
+tiradentes,-23.5311107,-46.6326154,['azul'],Arts & Entertainment,30
+tiradentes,-23.5311107,-46.6326154,['azul'],College & University,44
+tiradentes,-23.5311107,-46.6326154,['azul'],Event,7
+tiradentes,-23.5311107,-46.6326154,['azul'],Food,138
+tiradentes,-23.5311107,-46.6326154,['azul'],Nightlife Spot,21
+tiradentes,-23.5311107,-46.6326154,['azul'],Outdoors & Recreation,22
+tiradentes,-23.5311107,-46.6326154,['azul'],Professional & Other Places,86
+tiradentes,-23.5311107,-46.6326154,['azul'],Residence,6
+tiradentes,-23.5311107,-46.6326154,['azul'],Shop & Service,68
+tiradentes,-23.5311107,-46.6326154,['azul'],Travel & Transport,35
+trianon-masp,-23.5636427,-46.6538374,['verde'],Arts & Entertainment,49
+trianon-masp,-23.5636427,-46.6538374,['verde'],College & University,81
+trianon-masp,-23.5636427,-46.6538374,['verde'],Event,10
+trianon-masp,-23.5636427,-46.6538374,['verde'],Food,235
+trianon-masp,-23.5636427,-46.6538374,['verde'],Nightlife Spot,111
+trianon-masp,-23.5636427,-46.6538374,['verde'],Outdoors & Recreation,74
+trianon-masp,-23.5636427,-46.6538374,['verde'],Professional & Other Places,164
+trianon-masp,-23.5636427,-46.6538374,['verde'],Residence,58
+trianon-masp,-23.5636427,-46.6538374,['verde'],Shop & Service,165
+trianon-masp,-23.5636427,-46.6538374,['verde'],Travel & Transport,97
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Arts & Entertainment,9
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],College & University,17
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Event,6
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Food,86
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Nightlife Spot,7
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Outdoors & Recreation,22
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Professional & Other Places,50
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Residence,5
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Shop & Service,86
+tucuruvi,-23.48006945,-46.603240966171505,['azul'],Travel & Transport,13
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Arts & Entertainment,30
+vergueiro,-23.5685349,-46.639917499999996,['azul'],College & University,68
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Event,2
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Food,191
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Nightlife Spot,40
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Outdoors & Recreation,66
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Professional & Other Places,161
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Residence,37
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Shop & Service,146
+vergueiro,-23.5685349,-46.639917499999996,['azul'],Travel & Transport,71
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Arts & Entertainment,4
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],College & University,6
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Event,2
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Food,42
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Nightlife Spot,10
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Outdoors & Recreation,15
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Professional & Other Places,37
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Residence,7
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Shop & Service,36
+vila-das-belezas,-23.640247600000002,-46.74576939999999,['lilas'],Travel & Transport,5
+vila-madalena,-23.5464956,-46.6911243,['verde'],Arts & Entertainment,33
+vila-madalena,-23.5464956,-46.6911243,['verde'],College & University,34
+vila-madalena,-23.5464956,-46.6911243,['verde'],Event,0
+vila-madalena,-23.5464956,-46.6911243,['verde'],Food,91
+vila-madalena,-23.5464956,-46.6911243,['verde'],Nightlife Spot,29
+vila-madalena,-23.5464956,-46.6911243,['verde'],Outdoors & Recreation,65
+vila-madalena,-23.5464956,-46.6911243,['verde'],Professional & Other Places,75
+vila-madalena,-23.5464956,-46.6911243,['verde'],Residence,24
+vila-madalena,-23.5464956,-46.6911243,['verde'],Shop & Service,66
+vila-madalena,-23.5464956,-46.6911243,['verde'],Travel & Transport,19
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Arts & Entertainment,30
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],College & University,71
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Event,0
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Food,164
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Nightlife Spot,36
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Outdoors & Recreation,64
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Professional & Other Places,137
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Residence,38
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Shop & Service,79
+vila-mariana,-23.5891777,-46.634668100000006,['azul'],Travel & Transport,28
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Arts & Entertainment,4
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],College & University,13
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Event,1
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Food,57
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Nightlife Spot,9
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Outdoors & Recreation,26
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Professional & Other Places,48
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Residence,6
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Shop & Service,43
+vila-matilde,-23.531916600000002,-46.5308731,['vermelha'],Travel & Transport,4
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Arts & Entertainment,6
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",College & University,25
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Event,5
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Food,83
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Nightlife Spot,14
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Outdoors & Recreation,36
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Professional & Other Places,52
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Residence,17
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Shop & Service,67
+vila-prudente,-23.5845945,-46.5834369,"['prata', 'verde']",Travel & Transport,12
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Arts & Entertainment,9
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],College & University,4
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Event,2
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Food,36
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Nightlife Spot,12
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Outdoors & Recreation,11
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Professional & Other Places,33
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Residence,9
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Shop & Service,50
+vila-tolstoi,-23.60090245,-46.527121045219204,['prata'],Travel & Transport,6
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Arts & Entertainment,5
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],College & University,2
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Event,0
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Food,26
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Nightlife Spot,14
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Outdoors & Recreation,7
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Professional & Other Places,36
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Residence,5
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Shop & Service,36
+vila-uniao,-23.6029664,-46.51556665335179,['prata'],Travel & Transport,2
